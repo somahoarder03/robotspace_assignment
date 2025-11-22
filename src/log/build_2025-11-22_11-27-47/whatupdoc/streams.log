@@ -1,0 +1,23 @@
+[1.675s] Invoking command in '/home/melanch0lia/ros2_ws/src/build/whatupdoc': PYTHONPATH=/home/melanch0lia/ros2_ws/src/build/whatupdoc/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/melanch0lia/ros2_ws/src/install/whatupdoc/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/melanch0lia/ros2_ws/src/build/whatupdoc/build --no-deps symlink_data
+[2.097s] running develop
+[2.333s] running egg_info
+[2.333s] creating whatupdoc.egg-info
+[2.335s] writing whatupdoc.egg-info/PKG-INFO
+[2.337s] writing dependency_links to whatupdoc.egg-info/dependency_links.txt
+[2.339s] writing entry points to whatupdoc.egg-info/entry_points.txt
+[2.339s] writing requirements to whatupdoc.egg-info/requires.txt
+[2.339s] writing top-level names to whatupdoc.egg-info/top_level.txt
+[2.340s] writing manifest file 'whatupdoc.egg-info/SOURCES.txt'
+[2.344s] reading manifest file 'whatupdoc.egg-info/SOURCES.txt'
+[2.345s] writing manifest file 'whatupdoc.egg-info/SOURCES.txt'
+[2.347s] running build_ext
+[2.348s] Creating /home/melanch0lia/ros2_ws/src/install/whatupdoc/lib/python3.10/site-packages/whatupdoc.egg-link (link to .)
+[2.349s] 
+[2.349s] Installed /home/melanch0lia/ros2_ws/src/build/whatupdoc
+[2.350s] running symlink_data
+[2.350s] creating /home/melanch0lia/ros2_ws/src/install/whatupdoc/share/ament_index
+[2.351s] creating /home/melanch0lia/ros2_ws/src/install/whatupdoc/share/ament_index/resource_index
+[2.353s] creating /home/melanch0lia/ros2_ws/src/install/whatupdoc/share/ament_index/resource_index/packages
+[2.354s] symbolically linking /home/melanch0lia/ros2_ws/src/build/whatupdoc/resource/whatupdoc -> /home/melanch0lia/ros2_ws/src/install/whatupdoc/share/ament_index/resource_index/packages
+[2.355s] symbolically linking /home/melanch0lia/ros2_ws/src/build/whatupdoc/package.xml -> /home/melanch0lia/ros2_ws/src/install/whatupdoc/share/whatupdoc
+[2.402s] Invoked command in '/home/melanch0lia/ros2_ws/src/build/whatupdoc' returned '0': PYTHONPATH=/home/melanch0lia/ros2_ws/src/build/whatupdoc/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/melanch0lia/ros2_ws/src/install/whatupdoc/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/melanch0lia/ros2_ws/src/build/whatupdoc/build --no-deps symlink_data

@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating whatupdoc.egg-info
+writing whatupdoc.egg-info/PKG-INFO
+writing dependency_links to whatupdoc.egg-info/dependency_links.txt
+writing entry points to whatupdoc.egg-info/entry_points.txt
+writing requirements to whatupdoc.egg-info/requires.txt
+writing top-level names to whatupdoc.egg-info/top_level.txt
+writing manifest file 'whatupdoc.egg-info/SOURCES.txt'
+reading manifest file 'whatupdoc.egg-info/SOURCES.txt'
+writing manifest file 'whatupdoc.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/melanch0lia/ros2_ws/src/install/whatupdoc/lib/python3.10/site-packages/whatupdoc.egg-link (link to .)
+
+Installed /home/melanch0lia/ros2_ws/src/build/whatupdoc
+running symlink_data
+creating /home/melanch0lia/ros2_ws/src/install/whatupdoc/share/ament_index
+creating /home/melanch0lia/ros2_ws/src/install/whatupdoc/share/ament_index/resource_index
+creating /home/melanch0lia/ros2_ws/src/install/whatupdoc/share/ament_index/resource_index/packages
+symbolically linking /home/melanch0lia/ros2_ws/src/build/whatupdoc/resource/whatupdoc -> /home/melanch0lia/ros2_ws/src/install/whatupdoc/share/ament_index/resource_index/packages
+symbolically linking /home/melanch0lia/ros2_ws/src/build/whatupdoc/package.xml -> /home/melanch0lia/ros2_ws/src/install/whatupdoc/share/whatupdoc
